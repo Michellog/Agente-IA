@@ -1,7 +1,6 @@
 #Este é o mesmo modelo porem com llm groq
 
 import streamlit as st
-from groq import Groq
 import os
 from dotenv import load_dotenv
 from groq import Groq
@@ -57,3 +56,4 @@ st.markdown("""
 Desenvolvido por Michel com ❤️ e Groq (Claude 3.5)
 </p>
 """, unsafe_allow_html=True)
+
