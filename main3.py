@@ -56,4 +56,3 @@ st.markdown("""
 Desenvolvido por Michel com ❤️ e Groq (Claude 3.5)
 </p>
 """, unsafe_allow_html=True)
-
